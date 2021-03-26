@@ -1,0 +1,5 @@
+*CentOs에 mysql 설치하기
+https://bamdule.tistory.com/22
+
+*Intellij github 연동하기
+https://goddaehee.tistory.com/249
